@@ -1,0 +1,569 @@
+{
+    "765417780500889611": {
+        "player_name": "shehabmakky",
+        "nickname": "MKY",
+        "discord_id": 765417780500889611,
+        "clan": "[OP]",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 409.34999999999997,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 3,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "393912053984788481": {
+        "player_name": "mmnasa",
+        "nickname": "AUTO",
+        "discord_id": 393912053984788481,
+        "clan": "[YAHO]",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 618,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "1076867908375941261": {
+        "player_name": "fathnhar",
+        "nickname": "FATEH",
+        "discord_id": 1076867908375941261,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 504,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "594974233822494720": {
+        "player_name": "teto_tb",
+        "nickname": "TETO",
+        "discord_id": 594974233822494720,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "558763617894400011": {
+        "player_name": "louayhalabi",
+        "nickname": "LOUAY",
+        "discord_id": 558763617894400011,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 537,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "1092946265236574308": {
+        "player_name": "abdo321321",
+        "nickname": "ABOGAD",
+        "discord_id": 1092946265236574308,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 556,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "1075127242801291344": {
+        "player_name": "eslamashraf1033",
+        "nickname": "ESLAM",
+        "discord_id": 1075127242801291344,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "642286293384167445": {
+        "player_name": "hisham8257",
+        "nickname": "hisham",
+        "discord_id": 642286293384167445,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 439.76,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 2,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "423550658726068233": {
+        "player_name": "sniper963",
+        "nickname": "sniper",
+        "discord_id": 423550658726068233,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 824,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "975384272770838549": {
+        "player_name": "saad14506",
+        "nickname": "saad",
+        "discord_id": 975384272770838549,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 584.41,
+            "rank_name": "\ud83c\udf7cnoob_3V3\ud83c\udf7c",
+            "wins": 0,
+            "losses": 1,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "484440068464050186": {
+        "player_name": "_kabeer_1",
+        "nickname": "kabeer",
+        "discord_id": 484440068464050186,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 612,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "979493088739328100": {
+        "player_name": "_fzq",
+        "nickname": "fwaz",
+        "discord_id": 979493088739328100,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 565,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "890265531876261908": {
+        "player_name": "yaseen55.",
+        "nickname": "ibn khattab",
+        "discord_id": 890265531876261908,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 1110.3899999999999,
+            "rank_name": "\ud83d\udd38AMATEUR_3V3\ud83d\udd38",
+            "wins": 1,
+            "losses": 2,
+            "win_rate": 33.33
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "1229148929623461949": {
+        "player_name": "slark0619",
+        "nickname": "slark",
+        "discord_id": 1229148929623461949,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "830412371439648798": {
+        "player_name": "pixsas",
+        "nickname": "pixsas",
+        "discord_id": 830412371439648798,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "836651779302096906": {
+        "player_name": "egyshark",
+        "nickname": "shark",
+        "discord_id": 836651779302096906,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "833819881689317396": {
+        "player_name": "tayouka.",
+        "nickname": "hercles",
+        "discord_id": 833819881689317396,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "690996575404818474": {
+        "player_name": "golmake",
+        "nickname": "golmake",
+        "discord_id": 690996575404818474,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "488873581044957184": {
+        "player_name": "emadko_syr",
+        "nickname": "lol",
+        "discord_id": 488873581044957184,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 1663.39,
+            "rank_name": "\ud83d\udd38AMATEUR_3V3\ud83d\udd38",
+            "wins": 3,
+            "losses": 0,
+            "win_rate": 100.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "1028647528167653427": {
+        "player_name": "unsichtbaregy",
+        "nickname": "jou",
+        "discord_id": 1028647528167653427,
+        "clan": "[HR]",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "829470589999644684": {
+        "player_name": "hodvermax",
+        "nickname": "VERMAX",
+        "discord_id": 829470589999644684,
+        "clan": "[YAHO]",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 971.86,
+            "rank_name": "\ud83c\udf7cnoob_3V3\ud83c\udf7c",
+            "wins": 0,
+            "losses": 1,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "725771046124519485": {
+        "player_name": "ictf_",
+        "nickname": "TaRoOo",
+        "discord_id": 725771046124519485,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 1663.39,
+            "rank_name": "\ud83d\udd38AMATEUR_3V3\ud83d\udd38",
+            "wins": 3,
+            "losses": 0,
+            "win_rate": 100.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "567065802344235039": {
+        "player_name": "silver_97",
+        "nickname": "SiLvER",
+        "discord_id": 567065802344235039,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 471.46999999999997,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 2,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "1186443897061265510": {
+        "player_name": "10h.vg",
+        "nickname": "H-u-n-T-e-r`",
+        "discord_id": 1186443897061265510,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 486.88,
+            "rank_name": "\ud83d\udce5new_3V3\ud83d\udce5",
+            "wins": 0,
+            "losses": 1,
+            "win_rate": 0.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "706164384199737436": {
+        "player_name": "mr.ahmadsarmini",
+        "nickname": "MR LORD",
+        "discord_id": 706164384199737436,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 1663.39,
+            "rank_name": "\ud83d\udd38AMATEUR_3V3\ud83d\udd38",
+            "wins": 3,
+            "losses": 0,
+            "win_rate": 100.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "336187065978847243": {
+        "player_name": "ilyaxc",
+        "nickname": "ILYAROX",
+        "discord_id": 336187065978847243,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 1183.63,
+            "rank_name": "\ud83d\udd38AMATEUR_3V3\ud83d\udd38",
+            "wins": 1,
+            "losses": 0,
+            "win_rate": 100.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    },
+    "731966185968631848": {
+        "player_name": "anasx8",
+        "nickname": "anas",
+        "discord_id": 731966185968631848,
+        "clan": "\ud83d\ude22NO CLAN\ud83d\ude22",
+        "banned": false,
+        "3V3_GAME": {
+            "rank": 1183.63,
+            "rank_name": "\ud83d\udd38AMATEUR_3V3\ud83d\udd38",
+            "wins": 1,
+            "losses": 0,
+            "win_rate": 100.0
+        },
+        "AIR_GAME": {
+            "rank": 490,
+            "rank_name": "\ud83d\udce5new_AIR\ud83d\udce5",
+            "wins": 0,
+            "losses": 0,
+            "win_rate": 0.0
+        }
+    }
+}
