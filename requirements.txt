@@ -1,7 +1,2 @@
-aiofiles==23.2.1
-async-timeout==4.0.3
-discord==2.3.2
-discord.py==2.3.2
-jsonschema==4.22.0
-jsonschema-specifications==2023.12.1
-python-dotenv==1.0.1
+discord.py==2.0.0
+aiofiles==0.8.0
