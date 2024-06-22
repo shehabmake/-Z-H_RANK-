@@ -131,7 +131,7 @@ class NotModerator(Exception):
 def is_admin(interaction: Interaction):
     admin_ids = [
         765417780500889611, 836651779302096906, 393912053984788481,
-        1070097101217861724, 642286293384167445
+        1070097101217861724, 642286293384167445,594974233822494720
     ]  # Add admin IDs here
     if interaction.user.id not in admin_ids:
         raise NotAdmin("You do not have admin permissions.")
@@ -142,7 +142,7 @@ def is_admin(interaction: Interaction):
 def is_user_admin(user: discord.User):
     admin_ids = [
         765417780500889611, 836651779302096906, 393912053984788481,
-        1070097101217861724, 642286293384167445
+        1070097101217861724, 642286293384167445,594974233822494720
     ]  # Add admin IDs here
     is_admin = user.id in admin_ids
     logging.info(
@@ -153,7 +153,7 @@ def is_user_admin(user: discord.User):
 # Check if user is a developer
 def is_developer(interaction: Interaction):
     developer_ids = [
-        765417780500889611, 393912053984788481, 642286293384167445
+        765417780500889611, 393912053984788481, 642286293384167445,594974233822494720
     ]  # Add developer IDs here
     if interaction.user.id not in developer_ids:
         raise NotDeveloper("You do not have developer permissions.")
@@ -164,7 +164,7 @@ def is_developer(interaction: Interaction):
 def is_moderator(interaction: Interaction):
     moderator_ids = [
         765417780500889611, 836651779302096906, 393912053984788481,
-        1070097101217861724, 642286293384167445
+        1070097101217861724, 642286293384167445,594974233822494720
     ]  # Add moderator IDs here
     if interaction.user.id not in moderator_ids and interaction.user.id not in admin_ids and interaction.user.id not in developer_ids:
         raise NotModerator("You do not have moderator permissions.")
@@ -174,12 +174,12 @@ def is_moderator(interaction: Interaction):
 # IDs for admin, developer, and moderator roles
 admin_ids = [
     765417780500889611, 836651779302096906, 393912053984788481,
-    1070097101217861724, 642286293384167445
+    1070097101217861724, 642286293384167445,594974233822494720
 ]
-developer_ids = [765417780500889611, 393912053984788481, 642286293384167445]
+developer_ids = [765417780500889611, 393912053984788481, 642286293384167445,594974233822494720]
 moderator_ids = [
     765417780500889611, 836651779302096906, 393912053984788481,
-    1070097101217861724, 642286293384167445
+    1070097101217861724, 642286293384167445,594974233822494720
 ]
 
 #DEVELOPER_PASSWORD
