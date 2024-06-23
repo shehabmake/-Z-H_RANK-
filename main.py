@@ -11,7 +11,7 @@ from discord import Interaction, app_commands
 import logging
 import asyncio
 from keep_alive import keep_alive
-from dotenv import load_dotenv
+from dotenv import load_dotenv, dotenv_values
 
 
 load_dotenv()
@@ -2490,5 +2490,9 @@ async def on_ready():
 
 
 ### Start bot ###
-TOKEN = os.getenv("DISCORD_BOT_TOKEN")
-bot.run(TOKEN)
+TOKEN = os.getenv("DISCORD_BOT_TOKEN") 
+# Start bot
+if TOKEN:
+    bot.run(TOKEN)
+else:
+    logging.error("Bot token is not set. Please check your .env file.")
