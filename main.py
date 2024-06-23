@@ -10,7 +10,11 @@ import random
 from discord import Interaction, app_commands
 import logging
 import asyncio
-from keep_alive import keep_alive 
+from keep_alive import keep_alive
+from dotenv import load_dotenv
+
+
+load_dotenv()
 
 keep_alive()
 
